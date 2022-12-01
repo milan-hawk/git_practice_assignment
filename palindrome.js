@@ -3,7 +3,7 @@ function checkPalindrome(N, str) {
     let bag2="";
     for(let i=0;i<str.length;i++)
     {
-        bag1=bag1+str[j];
+        bag1=bag1+str[i];
     }
     for(let j=str.length-1;j>=0;j--)
     {

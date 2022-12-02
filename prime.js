@@ -4,7 +4,7 @@ function identifyPrime(num) {
         {
             if(num%n===0)
             {
-                count;
+                count++;
             }
         }
         if(count==2)
